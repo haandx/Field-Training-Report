@@ -82,6 +82,8 @@ WordPress is a widely acclaimed content management system (CMS) with significant
 <img src= "https://github.com/haandx/Field-Training-Report/assets/142608001/ef53b559-c197-495e-85c7-85413cd2bc70" width = "500">
 </div>
 
+note: The page is still in the coding and editing stage, but this is the final result I achieved before the end of my training duration.
+
 ## 6. Conclusion
 In summary, field training in the field serves as a vital link connecting theoretical knowledge with practical application. This immersive experience provides valuable benefits, such as the application of theoretical concepts, the development of problem-solving abilities, enhanced adaptability, networking prospects, and substantial professional growth. Engaging in field training not only imparts essential skills but also equips individuals with the expertise needed to thrive in their respective fields, enabling them to make impactful contributions and achieve success in their professional journeys.
 
