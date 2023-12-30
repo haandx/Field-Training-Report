@@ -1,4 +1,4 @@
-![image](https://github.com/haandx/Field-Training-Report/assets/142608001/e05e5f2b-5838-4536-87cd-7447d7d8c0da)# Field-Training-Report
+# Field-Training-Report
 ## 1. Introduction:
 WordPress is a widely acclaimed content management system (CMS) with significant benefits for a variety of applications. As a versatile and user-friendly platform, it offers numerous advantages, making it a top choice for website development and content management. Some of its key benefits include:
 
